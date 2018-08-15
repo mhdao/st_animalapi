@@ -10,3 +10,4 @@ public class AnimalapiApplication {
 		SpringApplication.run(AnimalapiApplication.class, args);
 	}
 }
+

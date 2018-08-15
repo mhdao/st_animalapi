@@ -24,3 +24,4 @@ public abstract class BaseTest {
         this.mockMvc = MockMvcBuilders.webAppContextSetup(this.wac).build();
     }
 }
+

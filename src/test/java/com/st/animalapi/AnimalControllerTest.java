@@ -48,7 +48,6 @@ public class AnimalControllerTest extends BaseTest {
                 .andReturn();
         animal = mapper.readValue(result.getResponse().getContentAsString(), Animal.class);
         Assert.assertNotNull(animal);
-        
     }
     
     public static String asJsonString(final Object obj) {

@@ -12,5 +12,4 @@ public class AnimalapiApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
