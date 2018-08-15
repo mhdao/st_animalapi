@@ -39,3 +39,4 @@ animalapi application will start and run on port 8090.
 
 To see api document detail: just type in browse: 
 http://localhost:8090/swagger-ui.html#/animal-controller
+
